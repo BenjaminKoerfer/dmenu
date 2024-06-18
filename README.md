@@ -1,5 +1,3 @@
-# Luke's dmenu
-
 Extra stuff added to vanilla dmenu:
 
 - reads Xresources (ergo pywal compatible)
@@ -8,7 +6,3 @@ Extra stuff added to vanilla dmenu:
 - `-P` for password mode: hide user input
 - `-r` to reject non-matching input
 - dmenu options are mouse clickable
-
-## Installation
-
-After making any config changes that you want, but `make`, `sudo make install` it.
